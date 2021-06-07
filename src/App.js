@@ -7,8 +7,16 @@ import Portfolio from "./components/Portfolio";
 import Qualification from "./components/Qualification";
 import ScrollUp from "./components/ScrollUp";
 import Skills from "./components/Skills";
+import ReactGa from "react-ga";
+import { useEffect } from "react";
 
 function App() {
+  useEffect(() => {
+    ReactGa.initialize("G-0S7HJGPQKB");
+
+    ReactGa.pageview("/");
+  }, []);
+
   return (
     <div className="">
       <Header />
