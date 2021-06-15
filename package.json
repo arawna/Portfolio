@@ -1,5 +1,5 @@
 {
-  "homepage": "https://fatihkayan20.github.io/Portfolio/",
+  "homepage": "https://arawna.github.io/Portfolio/",
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -44,6 +44,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.0"
+    "gh-pages": "^3.2.1"
   }
 }
