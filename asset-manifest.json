@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.156074a9.chunk.css",
+    "main.js": "/Portfolio/static/js/main.b106b753.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.b106b753.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.02f900de.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.02f900de.js.map",
+    "static/js/2.e875992f.chunk.js": "/Portfolio/static/js/2.e875992f.chunk.js",
+    "static/js/2.e875992f.chunk.js.map": "/Portfolio/static/js/2.e875992f.chunk.js.map",
+    "static/js/3.d24f3802.chunk.js": "/Portfolio/static/js/3.d24f3802.chunk.js",
+    "static/js/3.d24f3802.chunk.js.map": "/Portfolio/static/js/3.d24f3802.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.156074a9.chunk.css.map": "/Portfolio/static/css/main.156074a9.chunk.css.map",
+    "static/js/2.e875992f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.e875992f.chunk.js.LICENSE.txt",
+    "static/media/My_Resume_English.ae87d281.pdf": "/Portfolio/static/media/My_Resume_English.ae87d281.pdf",
+    "static/media/My_Resume_Turkish.485b694a.pdf": "/Portfolio/static/media/My_Resume_Turkish.485b694a.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02f900de.js",
+    "static/js/2.e875992f.chunk.js",
+    "static/css/main.156074a9.chunk.css",
+    "static/js/main.b106b753.chunk.js"
+  ]
+}
