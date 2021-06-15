@@ -104,7 +104,7 @@ export default function Header() {
   return (
     <header className="header" id="header">
       <nav className="nav container">
-        <div className="nav__logo">Fatih</div>
+        <div className="nav__logo">Ali Hocaoğlu</div>
 
         <div
           className={`nav__menu ${state.isBottomNavOpen ? "show-menu" : ""}`}

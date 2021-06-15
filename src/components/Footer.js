@@ -8,9 +8,9 @@ export default function Footer() {
       <div className="footer__bg">
         <div className="footer__container container grid">
           <div>
-            <h1 className="footer__title">Fatih Kayan</h1>
+            <h1 className="footer__title">Ali Hocaoğlu</h1>
             <span className="footer__subtitle">
-              Frontend & Mobile Developer
+              Frontend & Backend & Mobile Developer
             </span>
           </div>
 
@@ -29,7 +29,7 @@ export default function Footer() {
 
           <div className="footer__socials">
             <a
-              href="https://www.linkedin.com/in/fatihkayan/"
+              href="https://www.linkedin.com/in/ali-hocaoglu-304224207/"
               target="_blank"
               className="footer__social"
               rel="noreferrer"
@@ -37,7 +37,7 @@ export default function Footer() {
               <UilLinkedin />
             </a>
             <a
-              href="https://www.instagram.com/fatihkayann20/"
+              href="https://www.instagram.com/alihocaoglu34/"
               target="_blank"
               rel="noreferrer"
               className="footer__social"
@@ -45,7 +45,7 @@ export default function Footer() {
               <UilInstagram />
             </a>
             <a
-              href="https://github.com/fatihkayan20"
+              href="https://github.com/arawna"
               target="_blank"
               rel="noreferrer"
               className="footer__social"
@@ -54,7 +54,7 @@ export default function Footer() {
             </a>
           </div>
         </div>
-        <p className="footer__copy">&#169; Fatih Kayan. All right reserved. </p>
+        <p className="footer__copy">&#169; Ali Hocaoğlu. All right reserved. </p>
       </div>
     </footer>
   );

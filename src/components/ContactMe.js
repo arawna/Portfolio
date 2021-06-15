@@ -27,17 +27,19 @@ export default function ContactMe() {
     console.log(e.target);
     emailjs
       .sendForm(
-        "service_axh3m8o",
-        "template_kpqsuvz",
+        "service_lezsxx2",
+        "template_q7ed00o",
         e.target,
-        "user_x9c6VLB55vR0H0SYjWACs"
+        "user_pv41a8iQOsbQJm5c7eD3t"
       )
       .then(
         (result) => {
           console.log(result);
+          alert("Email sended");
         },
         (error) => {
           console.log(error.text);
+          alert("There is a problem");
         }
       );
   };
@@ -53,7 +55,7 @@ export default function ContactMe() {
 
             <div>
               <h3 className="contact__title">Call Me</h3>
-              <span className="contact__subtitle">+90-541-299-4638</span>
+              <span className="contact__subtitle">+90-536-889-7200</span>
             </div>
           </div>
 
@@ -62,7 +64,7 @@ export default function ContactMe() {
 
             <div>
               <h3 className="contact__title">Email</h3>
-              <span className="contact__subtitle">Fatih.kayan83@gmail.com</span>
+              <span className="contact__subtitle">alihocaoglu1220@gmail.com</span>
             </div>
           </div>
 
@@ -71,7 +73,7 @@ export default function ContactMe() {
 
             <div>
               <h3 className="contact__title">Location</h3>
-              <span className="contact__subtitle">Turkey - Denizli</span>
+              <span className="contact__subtitle">Turkey - İstanbul</span>
             </div>
           </div>
         </div>

@@ -1,7 +1,6 @@
 import React from "react";
 import {
   UilLinkedinAlt,
-  UilMediumM,
   UilGithubAlt,
   UilInstagram,
   UilMessage,
@@ -17,7 +16,7 @@ export default function Home() {
         <div className="home__content grid">
           <div className="home__social">
             <a
-              href="https://www.linkedin.com/in/fatihkayan/"
+              href="https://www.linkedin.com/in/ali-hocaoglu-304224207/"
               target="_blank"
               rel="noreferrer"
               className="home__social-icon"
@@ -25,7 +24,7 @@ export default function Home() {
               <UilLinkedinAlt />
             </a>
             <a
-              href="https://github.com/fatihkayan20/"
+              href="https://github.com/arawna"
               target="_blank"
               rel="noreferrer"
               className="home__social-icon"
@@ -33,36 +32,28 @@ export default function Home() {
               <UilGithubAlt />
             </a>
             <a
-              href="https://www.instagram.com/fatihkayann20/"
+              href="https://www.instagram.com/alihocaoglu34/"
               target="_blank"
               rel="noreferrer"
               className="home__social-icon"
             >
               <UilInstagram />
             </a>
-            <a
-              href="https://fatihkayan.medium.com/"
-              target="_blank"
-              rel="noreferrer"
-              className="home__social-icon"
-            >
-              <UilMediumM />
-            </a>
           </div>
 
           <div className="home__img">
             <img
               className="home__img-img"
-              src="https://avatars.githubusercontent.com/u/62346582?v=4"
+              src="https://avatars.githubusercontent.com/u/67177385??=4"
               alt=""
             />
           </div>
 
           <div className="home__data">
-            <h1 className="home__title">Hi, I'am Fatih</h1>
-            <h3 className="home__subtitle">Frontend & Mobile Developer</h3>
+            <h1 className="home__title">Hi, I'am Ali</h1>
+            <h3 className="home__subtitle">Full Stack Developer</h3>
             <p className="home__description">
-              High level experience in web and mobile design and development
+              High level experience in java and web design and development
               knowledge, producing quality work.
             </p>
             <Link to="contact" spy={true} className="button button__flex">

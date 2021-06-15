@@ -54,10 +54,10 @@ export default function Qualification() {
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">
-                  Electric and Electronic Engineering
+                  Computer Engineering
                 </h3>
                 <span className="qualification__subtitle">
-                  Burdur Mehmet AKif Ersoy University
+                  Tekirdağ Namık Kemal University
                 </span>
 
                 <div className="qualification__calendat">
@@ -76,7 +76,7 @@ export default function Qualification() {
             className={`qualification__content ${getActiveClass("work")}`}
             data-content
           >
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div></div>
               <div>
                 <span className="qualification__rounder"></span>
@@ -89,9 +89,9 @@ export default function Qualification() {
                   <UilCalendarAlt /> 2021 For 3 month
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            <div className="qualification__data">
+            {/* <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Mobile Developer</h3>
                 <span className="qualification__subtitle">Wannart</span>
@@ -104,7 +104,7 @@ export default function Qualification() {
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

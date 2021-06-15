@@ -11,33 +11,32 @@ export default function About() {
 
       <div className="about__container container grid">
         <img
-          src="https://avatars.githubusercontent.com/u/62346582?v=4"
+          src="https://avatars.githubusercontent.com/u/67177385??=4"
           alt=""
           className="about__img"
         />
         <div className="about__data">
           <p className="about__description">
-            Web & Mobile developer, with extensive knowledge and years of
-            experience, working in web and mobile technologies, delivering
+            Web & Mobile developer, working in web and mobile technologies, delivering
             quality work.
           </p>
           <div className="about__info">
             <div>
               <span className="about__info-title">08+</span>
               <span className="about__info-name">
-                Years <br /> experience
+                Years <br /> web development
               </span>
             </div>
             <div>
-              <span className="about__info-title">20+</span>
+              <span className="about__info-title">01+</span>
               <span className="about__info-name">
-                Completed <br /> project
+              Years <br /> Java development
               </span>
             </div>
             <div>
               <span className="about__info-title">05+</span>
               <span className="about__info-name">
-                Companies <br /> worked
+              Completed <br /> project
               </span>
             </div>
           </div>

@@ -46,7 +46,7 @@ export default function Skills() {
 
               <div>
                 <h1 className="skills__titles">Frontend Developer</h1>
-                <span className="skills__subtitle">More than 3 years</span>
+                <span className="skills__subtitle">More than 1 years</span>
               </div>
               <UilAngleDown className="skills__arrow" />
             </div>
@@ -66,12 +66,12 @@ export default function Skills() {
               <div className="skills__data">
                 <div className="skills__titles">
                   <h3 className="skills__name">CSS</h3>
-                  <span className="skills__number">75%</span>
+                  <span className="skills__number">50%</span>
                 </div>
                 <div className="skills__bar">
                   <span
                     className="skills__pertange skills__css"
-                    style={{ width: getPertange(75) }}
+                    style={{ width: getPertange(50) }}
                   ></span>
                 </div>
               </div>
@@ -101,18 +101,6 @@ export default function Skills() {
                 </div>
               </div>
 
-              <div className="skills__data">
-                <div className="skills__titles">
-                  <h3 className="skills__name">Angular</h3>
-                  <span className="skills__number">80%</span>
-                </div>
-                <div className="skills__bar">
-                  <span
-                    className="skills__pertange skills__angular"
-                    style={{ width: getPertange(80) }}
-                  ></span>
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -132,13 +120,13 @@ export default function Skills() {
           <div className="skills__list grid">
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">React Native</h3>
-                <span className="skills__number">80%</span>
+                <h3 className="skills__name">{"Java & Kotlin"}</h3>
+                <span className="skills__number">50%</span>
               </div>
               <div className="skills__bar">
                 <span
                   className="skills__pertange skills__reactnative"
-                  style={{ width: getPertange(80) }}
+                  style={{ width: getPertange(50) }}
                 ></span>
               </div>
             </div>
@@ -157,27 +145,15 @@ export default function Skills() {
             <UilAngleDown className="skills__arrow" />
           </div>
           <div className="skills__list grid">
-            <div className="skills__data">
-              <div className="skills__titles">
-                <h3 className="skills__name">NodeJs</h3>
-                <span className="skills__number">90%</span>
-              </div>
-              <div className="skills__bar">
-                <span
-                  className="skills__pertange skills__node"
-                  style={{ width: getPertange(90) }}
-                ></span>
-              </div>
-            </div>
 
             <div className="skills__data">
               <div className="skills__titles">
-                <h3 className="skills__name">Firebase</h3>
+                <h3 className="skills__name">Java</h3>
                 <span className="skills__number">90%</span>
               </div>
               <div className="skills__bar">
                 <span
-                  className="skills__pertange skills__firebase"
+                  className="skills__pertange skills__csharp"
                   style={{ width: getPertange(90) }}
                 ></span>
               </div>
@@ -186,19 +162,6 @@ export default function Skills() {
             <div className="skills__data">
               <div className="skills__titles">
                 <h3 className="skills__name">C#</h3>
-                <span className="skills__number">85%</span>
-              </div>
-              <div className="skills__bar">
-                <span
-                  className="skills__pertange skills__csharp"
-                  style={{ width: getPertange(85) }}
-                ></span>
-              </div>
-            </div>
-
-            <div className="skills__data">
-              <div className="skills__titles">
-                <h3 className="skills__name">Java</h3>
                 <span className="skills__number">70%</span>
               </div>
               <div className="skills__bar">

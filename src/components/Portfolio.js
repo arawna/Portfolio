@@ -11,20 +11,46 @@ export default function Portfolio() {
         <div>
           <div className="portfolio__content grid">
             <img
-              src="https://cdn.discordapp.com/attachments/801953745956241408/850849280847773787/unknown.png"
+              src="https://i.hizliresim.com/3wdvom5.PNG"
               alt=""
               className="portfolio__img"
             />
 
             <div className="portfolio__data">
-              <h3 className="portfolio__title">Twitter Clone App</h3>
+              <h3 className="portfolio__title">HRMS Aplication React Frontend</h3>
               <p className="portfolio__description">
-                A full functionality social app like twitter. It made with React
-                and Firebase
+                A full functionality human resources management system app like linkedin. It made with React
+                and java
               </p>
 
               <a
-                href="https://social-app-2ce36.web.app/"
+                href="https://kodlama-io-hrms.herokuapp.com"
+                target="_blank"
+                className="button button__flex button__small portfolio__button"
+                rel="noreferrer"
+              >
+                Demo
+                <UilArrowRight className="button__icon" />
+              </a>
+            </div>
+          </div>
+
+          <div className="portfolio__content grid">
+            <img
+              src="https://i.hizliresim.com/buzk0zy.PNG"
+              alt=""
+              className="portfolio__img"
+            />
+
+            <div className="portfolio__data">
+              <h3 className="portfolio__title">HRMS Aplication Spring Api Service</h3>
+              <p className="portfolio__description">
+                A full functionality human resources management system app like linkedin. It made with Java
+                and Spring
+              </p>
+
+              <a
+                href="https://kodlamaio-hrms.herokuapp.com/swagger-ui.html#/"
                 target="_blank"
                 className="button button__flex button__small portfolio__button"
                 rel="noreferrer"
