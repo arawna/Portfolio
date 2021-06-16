@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.156074a9.chunk.css",
-    "main.js": "/Portfolio/static/js/main.b106b753.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.b106b753.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.5d3e017d.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.5d3e017d.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.02f900de.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.02f900de.js.map",
     "static/js/2.e875992f.chunk.js": "/Portfolio/static/js/2.e875992f.chunk.js",
@@ -12,13 +12,13 @@
     "index.html": "/Portfolio/index.html",
     "static/css/main.156074a9.chunk.css.map": "/Portfolio/static/css/main.156074a9.chunk.css.map",
     "static/js/2.e875992f.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.e875992f.chunk.js.LICENSE.txt",
-    "static/media/My_Resume_English.ae87d281.pdf": "/Portfolio/static/media/My_Resume_English.ae87d281.pdf",
-    "static/media/My_Resume_Turkish.485b694a.pdf": "/Portfolio/static/media/My_Resume_Turkish.485b694a.pdf"
+    "static/media/My_Resume_English.d60d2201.pdf": "/Portfolio/static/media/My_Resume_English.d60d2201.pdf",
+    "static/media/My_Resume_Turkish.03e683ad.pdf": "/Portfolio/static/media/My_Resume_Turkish.03e683ad.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.02f900de.js",
     "static/js/2.e875992f.chunk.js",
     "static/css/main.156074a9.chunk.css",
-    "static/js/main.b106b753.chunk.js"
+    "static/js/main.5d3e017d.chunk.js"
   ]
 }
